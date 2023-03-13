@@ -3,5 +3,6 @@ file1 addition1
 file1 addition2
 file1 addition3
 new branch changes
+cont. new branch changes
 
 
